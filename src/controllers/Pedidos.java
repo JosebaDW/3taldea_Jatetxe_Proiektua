@@ -8,5 +8,5 @@ import models.Pedido;
  * @author Alejandro Escobedo
  */
 public class Pedidos extends BaseController{
-    
+	//Aldaketak ikaslea 2 Joseba    
 }
